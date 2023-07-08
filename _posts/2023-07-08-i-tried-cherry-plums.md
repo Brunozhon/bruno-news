@@ -14,7 +14,7 @@ But let's move on swiftly from the bad news to the good news. Cherry plum trees 
 
 If that's the only good news, how about the facts? They grow best in loamy, acidic soil, but if your soil has a bit too much sand or clay, the cherry plum plant can still tolerate it.
 
-# Nutrition Facts
+## Nutrition Facts
 
 In case you thought they were only sweet, here's a table:
 
@@ -33,3 +33,13 @@ Iron | 0.7mg
 Potassium | 274mg
 
 Source: [My Net Diary](https://www.mynetdiary.com/food/calories-in-cherry-plum-by-verry-serving-22746499-0.html)
+
+## Recipes
+
+Here's a recipe straight out of *Duguð Unorne Cookbook* from Old English times.
+
+> **Cherry Plýme Preserves**
+>
+> 1. Sýfre fenn ðêah stems wiðûtan sê blêd.
+> 2. Bûan twihynde rûm hwer mid fîf in before cups un−l¯æd [herry plums.
+
