@@ -10,7 +10,7 @@ Bruno News is a news feed that can show Bruno's interests and other Bruno-relate
 
 Some reasons include:
 
-### Bruno News supports code highlighting.
+### Bruno News supports code.
 
 You can see plain old HTML:
 
