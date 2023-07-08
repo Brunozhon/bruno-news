@@ -49,3 +49,18 @@ Here's a recipe straight out of *Duguð Unorne Cookbook* from Old English times.
 
 Couldn't understand? At least we have our Minnopea Orchards copy.
 
+> **Cherry Plum Preserves**
+>
+> This vegan treat is the perfect addition to any breakfast or snack and can be prepared in minutes! Start by cleaning any dirt and stems off of your fruit, then fill a large, thick bottomed cooking pot with 5 cups of cherry plums.
+>
+> Cook your cherry plums until the fruit has softened, mashing with the back of a spoon as you cook. Once all the fruit is softened, run through a food mill using the largest strainer size to remove all of the skin and seeds.
+>
+> In a large pot, combine your fruit with 4 cups of sugar and the juice of one lemon (adjust recipe based on how much fruit you get from the mill). Bring slowly to a boil while stirring frequently, and cook until the mixture begins to gel.
+
+
+# Resources
+
+- [Minneopa Orchards](https://minnetonkaorchards.com/cherry-plums/)
+- [My Net Diary](https://www.mynetdiary.com/food/calories-in-cherry-plum-by-verry-serving-22746499-0.html)
+- [Old English Translator](https://lingojam.com/OldEnglishTranslator)
+
