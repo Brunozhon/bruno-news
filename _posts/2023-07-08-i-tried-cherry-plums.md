@@ -41,5 +41,11 @@ Here's a recipe straight out of *Duguð Unorne Cookbook* from Old English times.
 > **Cherry Plýme Preserves**
 >
 > 1. Sýfre fenn ðêah stems wiðûtan sê blêd.
-> 2. Bûan twihynde rûm hwer mid fîf in before cups un−l¯æd [herry plums.
+> 2. Bûan twihynde rûm hwer mid fîf in before cups un−l¯æd cherry plums.
+> 3. Brîwan êower cherry plums innan sê âgan softened.
+> 4. Râd beæftan dimf b¯æm and−leofen mill using duguð largest strainer micelnes. Sê ðâ ðe lôgian onsceacan all wægn hýd hwæðere seeds.
+> 5. Hêanes bêgra rûm hwer, mengan and sê s¯ædu mid rêwut cups un−l¯æd sugar ðêah−hwæðere dôð sêawceorlisc lemon.
+> 6. Fetian a dolg by reason of âcêlan lôml¯æcan ymbe sê turns innan tîma gel.
+
+Couldn't understand? At least we have our Minnopea Orchards copy.
 
