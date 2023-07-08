@@ -209,7 +209,7 @@
           <h3 class="mb-0">{{ post.title }}</h3>
           <div class="mb-1 text-body-secondary">Nov 12</div>
           <p class="card-text mb-auto">{{ post.excerpt }}</p>
-          <a href="{{ post.url }}" class="icon-link gap-1 icon-link-hover stretched-link">
+          <a href="{{ post.url | relative_url }}" class="icon-link gap-1 icon-link-hover stretched-link">
             Continue reading
             <svg class="bi"><use xlink:href="#chevron-right"/></svg>
           </a>
