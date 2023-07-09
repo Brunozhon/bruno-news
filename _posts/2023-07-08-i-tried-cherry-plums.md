@@ -6,7 +6,7 @@ author: Bruno Zhong
 
 The cherry plum, also known as the *Prunus cerasifera*, is like a delicious big cherry. It is sweet and tangy and it contains less sugar than many other fruits according to [Minneopa Orchards](https://minnetonkaorchards.com/cherry-plums/)! But the cherry plant has more to show.
 
-## Cherry Plant Trees
+## Cherry Plum Trees
 
 Unfortunately, the cherry plum tree lives a relatively short life, because it can get pests and diesease easily. On average, these poor trees only live twenty years! That's about the time you take to finish school.
 
@@ -62,7 +62,7 @@ Couldn't understand? At least we have our Minnopea Orchards copy.
 > In a large pot, combine your fruit with 4 cups of sugar and the juice of one lemon (adjust recipe based on how much fruit you get from the mill). Bring slowly to a boil while stirring frequently, and cook until the mixture begins to gel.
 
 
-# Resources
+## Resources
 
 - [Minneopa Orchards](https://minnetonkaorchards.com/cherry-plums/)
 - [My Net Diary](https://www.mynetdiary.com/food/calories-in-cherry-plum-by-verry-serving-22746499-0.html)
