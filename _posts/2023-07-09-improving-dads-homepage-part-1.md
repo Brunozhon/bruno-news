@@ -13,6 +13,8 @@ This is a multi-part project. In this part I will focus on making Dad's homepage
 
 1. Improving Dad's Homepage - Making it Conform to Modern Standards
 
+**NOTE:** Everything here is used **with permission.** The creator of the code I am improving [can be found here](https://zichunzhong.github.io/).
+
 ## Fixing the Tables
 
 It turns out that Dad's website has a lot of tables that are used for layout. Tables should **NEVER** be used for layout. You can use [Bootstrap's grid system](https://getbootstrap.com/docs/5.3/layout/grid/) for much better results.
@@ -67,7 +69,7 @@ And here's the code of the table after some editing to conform to HTML5:
 
 Using Bootstrap's grid system, we can get this:
 
-<div class="container text-center">
+<div class="container">
   <div class="row">
     <div class="col-auto">
       <img src="https://github.com/Brunozhon/bruno-news/assets/69879040/b6257199-d159-447e-8c2f-63a20ed6ca5a" height="245" width="175"/>
@@ -96,7 +98,7 @@ Using Bootstrap's grid system, we can get this:
 And here's the code:
 
 ```html
-<div class="container text-center">
+<div class="container">
   <div class="row">
     <div class="col-auto">
       <img src="https://github.com/Brunozhon/bruno-news/assets/69879040/b6257199-d159-447e-8c2f-63a20ed6ca5a" height="245" width="175"/>
@@ -128,3 +130,68 @@ Let's move swiftly on to the next table, because it is much bigger.
 ### Table 2: Research Papers
 
 This one is a gigantic table. Let's view one section so we can apply it to the others.
+
+<table>
+	  	    	    <tr>
+			  <td height="6" colspan="2" >&nbsp;</td>
+			</tr>
+			<tr>
+			  <td rowspan="2" align="center" ><img src="https://github.com/Brunozhon/bruno-news/assets/69879040/630bdccc-ca6f-4589-a94b-3ad86aac8973" width="280" height="190"></td>
+			  <td rowspan="2" style="background-color: #E5E4E2;"><ul>
+				<li>Zichun Zhong and some other authors. "Learning Geometry-Aware Stuff"<br>
+        [<a href="https://zichunzhong.github.io/papers/JointLatent_CAGD2022.pdf">Paper</a>] [<a href="https://zichunzhong.github.io/papers/JointLatent_Supp_CAGD2022_LR.pdf">Supplement</a>] [<a href="https://github.com/artemkomarichev/joint_latent_space">Code</a>]</li>
+			  </ul></td>
+	</tr>
+</table>
+
+After you see the HTML, you'll see why it needs a bit of care and love.
+
+```html
+<table>
+	  
+	  	    	    <tr>
+			  <td height="6" colspan="2" >&nbsp;</td>
+			</tr>
+			<tr>
+			  <td rowspan="2" align="center" ><img src="https://github.com/Brunozhon/bruno-news/assets/69879040/630bdccc-ca6f-4589-a94b-3ad86aac8973" width="280" height="190"></td>
+			  <td rowspan="2" style="background-color: #E5E4E2;"><ul>
+				<li>Zichun Zhong and some other authors. "Learning Geometry-Aware Stuff"<br>
+        [<a href="https://zichunzhong.github.io/papers/JointLatent_CAGD2022.pdf">Paper</a>] [<a href="https://zichunzhong.github.io/papers/JointLatent_Supp_CAGD2022_LR.pdf">Supplement</a>] [<a href="https://github.com/artemkomarichev/joint_latent_space">Code</a>]</li>
+			  </ul></td>
+	</tr>
+
+  ...
+
+</table>
+```
+Again Bootstrap can make it more beautiful.
+
+<div class="container">
+  <div class="row">
+    <div class="col-auto">
+      <img src="https://github.com/Brunozhon/bruno-news/assets/69879040/630bdccc-ca6f-4589-a94b-3ad86aac8973" width="280" height="190">
+    </div>
+    <div class="col bg-secondary">
+      <ul>
+        <li>Zichun Zhong and some other authors. "Learning Geometry-Aware Stuff"<br>
+        [<a href="https://zichunzhong.github.io/papers/JointLatent_CAGD2022.pdf">Paper</a>] [<a href="https://zichunzhong.github.io/papers/JointLatent_Supp_CAGD2022_LR.pdf">Supplement</a>] [<a href="https://github.com/artemkomarichev/joint_latent_space">Code</a>]</li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+```html
+<div class="container text-center">
+  <div class="row">
+    <div class="col-auto">
+      <img src="https://github.com/Brunozhon/bruno-news/assets/69879040/630bdccc-ca6f-4589-a94b-3ad86aac8973" width="280" height="190">
+    </div>
+    <div class="col bg-secondary">
+      <ul>
+        <li>Zichun Zhong and some other authors. "Learning Geometry-Aware Stuff"<br>
+        [<a href="https://zichunzhong.github.io/papers/JointLatent_CAGD2022.pdf">Paper</a>] [<a href="https://zichunzhong.github.io/papers/JointLatent_Supp_CAGD2022_LR.pdf">Supplement</a>] [<a href="https://github.com/artemkomarichev/joint_latent_space">Code</a>]</li>
+      </ul>
+    </div>
+  </div>
+</div>
+```
