@@ -23,11 +23,11 @@ Here's what the table looks like:
 
 <table>
   <tr>
-    <td align="left" width="200"><div style="width: 175px; height: 245px;">Image Placeholder</div></td>
+    <td align="left"><img src="https://github.com/Brunozhon/bruno-news/assets/69879040/b6257199-d159-447e-8c2f-63a20ed6ca5a" height="245" width="175"/></td>
     <td align="left" valign="bottom"><p>
 <span style="font-size: 30px;"><b>Zichun Zhong</b></span>
 <br/><br/>
-<b style="font-size: 4.5px;">Associate Professor</b><br/>
+<b>Associate Professor</b><br/>
 <a href="https://engineering.wayne.edu/cs/">Department of Computer Science</a><br/>
 <a href="https://wayne.edu/">Wayne State University</a><br/>
 <br/>
@@ -46,11 +46,11 @@ And here's the code of the table after some editing to conform to HTML5:
 ```html
 <table>
   <tr>
-    <td align="left" width="200"><div style="width: 175px; height: 245px;">Image Placeholder</div></td>
+    <td align="left"><img src="https://github.com/Brunozhon/bruno-news/assets/69879040/b6257199-d159-447e-8c2f-63a20ed6ca5a" height="245" width="175"/></td>
     <td align="left" valign="bottom"><p>
 <span style="font-size: 30px;"><b>Zichun Zhong</b></span>
 <br/><br/>
-<b style="font-size: 4.5px;">Associate Professor</b><br/>
+<b>Associate Professor</b><br/>
 <a href="https://engineering.wayne.edu/cs/">Department of Computer Science</a><br/>
 <a href="https://wayne.edu/">Wayne State University</a><br/>
 <br/>
@@ -69,13 +69,13 @@ Using Bootstrap's grid system, we can get this:
 
 <div class="container text-center">
   <div class="row">
-    <div class="col-4">
-      <div style="height: 245px;">Image Placeholder</div>
+    <div class="col-auto">
+      <img src="https://github.com/Brunozhon/bruno-news/assets/69879040/b6257199-d159-447e-8c2f-63a20ed6ca5a" height="245" width="175"/>
     </div>
-    <div class="col-8">
+    <div class="col">
       <p><span style="font-size: 30px;"><b>Zichun Zhong</b></span></p>
       <p>
-        <b style="font-size: 4.5px;">Associate Professor</b><br/>
+        <b>Associate Professor</b><br/>
         <a href="https://engineering.wayne.edu/cs/">Department of Computer Science</a><br/>
         <a href="https://wayne.edu/">Wayne State University</a><br/>
       </p>
@@ -86,8 +86,8 @@ Using Bootstrap's grid system, we can get this:
       </p>
       <p>
         <b>Office: </b>REDACTED<br/>
-        <b>REDACTED<br/>
-        <b>Graphics and Imaging Lab: </b>REDACTED<br/>
+        <b>Computer Modeling and Imaging Visualization Lab: </b>REDACTED<br/>
+        <b>Graphics and Imaging Lab: </b>REDACTED
       </p>
     </div>
   </div>
@@ -99,7 +99,7 @@ And here's the code:
 <div class="container text-center">
   <div class="row">
     <div class="col-4">
-      <div style="height: 245px;">Image Placeholder</div>
+      <img src="https://github.com/Brunozhon/bruno-news/assets/69879040/b6257199-d159-447e-8c2f-63a20ed6ca5a" height="245" width="175"/>
     </div>
     <div class="col-8">
       <p><span style="font-size: 30px;"><b>Zichun Zhong</b></span></p>
@@ -115,8 +115,8 @@ And here's the code:
       </p>
       <p>
         <b>Office: </b>REDACTED<br/>
-        <b>REDACTED<br/>
-        <b>Graphics and Imaging Lab: </b>REDACTED<br/>
+        <b>Computer Modeling and Imaging Visualization Lab: </b>REDACTED<br/>
+        <b>Graphics and Imaging Lab: </b>REDACTED
       </p>
     </div>
   </div>
