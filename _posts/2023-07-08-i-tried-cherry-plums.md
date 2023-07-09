@@ -16,6 +16,10 @@ If that's the only good news, how about the facts? They grow best in loamy, acid
 
 ## Nutrition Facts
 
+![Ripe, purple cherry plums hanging on a branch.](https://github.com/Brunozhon/bruno-news/assets/69879040/5dad0ff8-b917-49ab-9489-e0df9b1587fd)
+
+Image Source: [Minnopea Orchards](https://minnetonkaorchards.com/cherry-plums/)
+
 In case you thought they were only sweet, here's a table:
 
 **Calories** | **82** 
