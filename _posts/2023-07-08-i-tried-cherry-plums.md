@@ -2,9 +2,14 @@
 layout: post
 title: I Tried Cherry Plums!
 author: Bruno Zhong
+excerpt_seperator: <!-- more -->
 ---
 
 The cherry plum, also known as the *Prunus cerasifera*, is like a delicious big cherry. It is sweet and tangy and it contains less sugar than many other fruits according to [Minneopa Orchards](https://minnetonkaorchards.com/cherry-plums/)! But the cherry plant has more to show.
+
+**DISCLAIMER:** The cherry plums listed here are **NOT** [plum-cherry hybrids](https://en.wikipedia.org/wiki/Plum-cherry_hybrid).
+
+<!-- more -->
 
 ## Cherry Plum Trees
 
