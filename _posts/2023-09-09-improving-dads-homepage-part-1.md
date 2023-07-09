@@ -31,12 +31,12 @@ Here's what the table looks like:
 <a href="https://engineering.wayne.edu/cs/">Department of Computer Science</a><br/>
 <a href="https://wayne.edu/">Wayne State University</a><br/>
 <br/>
-<b>Tel: </b>313-577-9530 (office)<br/>
-<b>Fax: </b>313-577-6868<br/>
-<b>Email:</b> zichunzhong "at" wayne.edu<br/> <br/>
-<b>Office: </b>5057 Woodward Ave. (Maccabees Building), Suite 14109.2, Detroit, Michigan, 48202<br/>
-<b>Computer Modeling and Imaging Visualization Lab: </b>5057 Woodward Ave. (Maccabees Building), 2209, Detroit, Michigan, 48202<br/>
-<b>Graphics and Imaging Lab: </b>5057 Woodward Ave. (Maccabees Building), 3104.5, Detroit, Michigan, 48202<br/>
+<b>Tel: </b>REDACTED (office)<br/>
+<b>Fax: </b>REDACTED<br/>
+<b>Email:</b>REDACTED<br/> <br/>
+<b>Office: </b>REDACTED<br/>
+<b>Computer Modeling and Imaging Visualization Lab: </b>REDACTED<br/>
+<b>Graphics and Imaging Lab: </b>REDACTED<br/>
 </p></td>
   </tr>
 </table>
@@ -54,13 +54,71 @@ And here's the code of the table after some editing to conform to HTML5:
 <a href="https://engineering.wayne.edu/cs/">Department of Computer Science</a><br/>
 <a href="https://wayne.edu/">Wayne State University</a><br/>
 <br/>
-<b>Tel: </b>313-577-9530 (office)<br/>
-<b>Fax: </b>313-577-6868<br/>
-<b>Email:</b> zichunzhong "at" wayne.edu<br/> <br/>
-<b>Office: </b>5057 Woodward Ave. (Maccabees Building), Suite 14109.2, Detroit, Michigan, 48202<br/>
-<b>Computer Modeling and Imaging Visualization Lab: </b>5057 Woodward Ave. (Maccabees Building), 2209, Detroit, Michigan, 48202<br/>
-<b>Graphics and Imaging Lab: </b>5057 Woodward Ave. (Maccabees Building), 3104.5, Detroit, Michigan, 48202<br/>
+<b>Tel: </b>REDACTED (office)<br/>
+<b>Fax: </b>REDACTED<br/>
+<b>Email:</b>REDACTED<br/> <br/>
+<b>Office: </b>REDACTED<br/>
+<b>Computer Modeling and Imaging Visualization Lab: </b>REDACTED<br/>
+<b>Graphics and Imaging Lab: </b>REDACTED<br/>
 </p></td>
   </tr>
 </table>
+```
+
+Using Bootstrap's grid system, we can get this:
+
+<div class="container text-center">
+  <div class="row">
+    <div class="col-4">
+      <div style="height: 245px;">Image Placeholder</div>
+    </div>
+    <div class="col-8">
+      <p><span style="font-size: 30px;"><b>Zichun Zhong</b></span></p>
+      <p>
+        <b style="font-size: 4.5px;">Associate Professor</b><br/>
+        <a href="https://engineering.wayne.edu/cs/">Department of Computer Science</a><br/>
+        <a href="https://wayne.edu/">Wayne State University</a><br/>
+      </p>
+      <p>
+        <b>Tel: </b>REDACTED (office)<br/>
+        <b>Fax: </b>REDACTED<br/>
+        <b>Email:</b> REDACTED
+      </p>
+      <p>
+        <b>Office: </b>REDACTED<br/>
+        <b>REDACTED<br/>
+        <b>Graphics and Imaging Lab: </b>REDACTED<br/>
+      </p>
+    </div>
+  </div>
+</div>
+
+And here's the code:
+
+```html
+<div class="container text-center">
+  <div class="row">
+    <div class="col-4">
+      <div style="height: 245px;">Image Placeholder</div>
+    </div>
+    <div class="col-8">
+      <p><span style="font-size: 30px;"><b>Zichun Zhong</b></span></p>
+      <p>
+        <b style="font-size: 4.5px;">Associate Professor</b><br/>
+        <a href="https://engineering.wayne.edu/cs/">Department of Computer Science</a><br/>
+        <a href="https://wayne.edu/">Wayne State University</a><br/>
+      </p>
+      <p>
+        <b>Tel: </b>REDACTED (office)<br/>
+        <b>Fax: </b>REDACTED<br/>
+        <b>Email:</b> REDACTED
+      </p>
+      <p>
+        <b>Office: </b>REDACTED<br/>
+        <b>REDACTED<br/>
+        <b>Graphics and Imaging Lab: </b>REDACTED<br/>
+      </p>
+    </div>
+  </div>
+</div>
 ```
