@@ -171,7 +171,7 @@ Again Bootstrap can make it more beautiful.
     <div class="col-auto">
       <img src="https://github.com/Brunozhon/bruno-news/assets/69879040/630bdccc-ca6f-4589-a94b-3ad86aac8973" width="280" height="190">
     </div>
-    <div class="col bg-secondary">
+    <div class="col bg-body-secondary">
       <ul>
         <li>Zichun Zhong and some other authors. "Learning Geometry-Aware Stuff"<br>
         [<a href="https://zichunzhong.github.io/papers/JointLatent_CAGD2022.pdf">Paper</a>] [<a href="https://zichunzhong.github.io/papers/JointLatent_Supp_CAGD2022_LR.pdf">Supplement</a>] [<a href="https://github.com/artemkomarichev/joint_latent_space">Code</a>]</li>
@@ -186,7 +186,7 @@ Again Bootstrap can make it more beautiful.
     <div class="col-auto">
       <img src="https://github.com/Brunozhon/bruno-news/assets/69879040/630bdccc-ca6f-4589-a94b-3ad86aac8973" width="280" height="190">
     </div>
-    <div class="col bg-secondary">
+    <div class="col bg-body-secondary">
       <ul>
         <li>Zichun Zhong and some other authors. "Learning Geometry-Aware Stuff"<br>
         [<a href="https://zichunzhong.github.io/papers/JointLatent_CAGD2022.pdf">Paper</a>] [<a href="https://zichunzhong.github.io/papers/JointLatent_Supp_CAGD2022_LR.pdf">Supplement</a>] [<a href="https://github.com/artemkomarichev/joint_latent_space">Code</a>]</li>
