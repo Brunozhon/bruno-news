@@ -24,7 +24,7 @@ Here's what the table looks like:
 <table>
   <tr>
     <td align="left"><img src="https://github.com/Brunozhon/bruno-news/assets/69879040/b6257199-d159-447e-8c2f-63a20ed6ca5a" height="245" width="175"/></td>
-    <td align="left" valign="bottom"><p>
+    <td align="left" valign="bottom" class="text-start"><<p>
 <span style="font-size: 30px;"><b>Zichun Zhong</b></span>
 <br/><br/>
 <b>Associate Professor</b><br/>
