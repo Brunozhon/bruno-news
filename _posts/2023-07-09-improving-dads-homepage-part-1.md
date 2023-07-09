@@ -98,13 +98,13 @@ And here's the code:
 ```html
 <div class="container text-center">
   <div class="row">
-    <div class="col-4">
+    <div class="col-auto">
       <img src="https://github.com/Brunozhon/bruno-news/assets/69879040/b6257199-d159-447e-8c2f-63a20ed6ca5a" height="245" width="175"/>
     </div>
-    <div class="col-8">
+    <div class="col">
       <p><span style="font-size: 30px;"><b>Zichun Zhong</b></span></p>
       <p>
-        <b style="font-size: 4.5px;">Associate Professor</b><br/>
+        <b>Associate Professor</b><br/>
         <a href="https://engineering.wayne.edu/cs/">Department of Computer Science</a><br/>
         <a href="https://wayne.edu/">Wayne State University</a><br/>
       </p>
@@ -122,3 +122,9 @@ And here's the code:
   </div>
 </div>
 ```
+
+Let's move swiftly on to the next table, because it is much bigger.
+
+### Table 2: Research Papers
+
+This one is a gigantic table. Let's view one section so we can apply it to the others.
